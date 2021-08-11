@@ -1,2 +1,2 @@
 # classroom
-class rep
+classroom  repository for the practical on GitHub
